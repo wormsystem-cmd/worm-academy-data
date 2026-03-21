@@ -1,0 +1,162 @@
+{
+  "categories": [
+    {
+      "id": "cat_1",
+      "name": "دروس البرمجة",
+      "icon": "💻",
+      "lessons": [
+        {
+          "id": "lesson_1",
+          "title": "مقدمة في البرمجة",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "description": "تعلم أساسيات البرمجة من الصفر",
+          "questions": [
+            {
+              "question": "ما هي لغة البرمجة الأكثر شهرة في تطوير المواقع؟",
+              "options": [
+                "Python",
+                "JavaScript",
+                "C++",
+                "Java"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "question": "ما هو HTML؟",
+              "options": [
+                "لغة برمجة",
+                "لغة توصيف النصوص",
+                "قاعدة بيانات",
+                "نظام تشغيل"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "question": "ما هي وظيفة CSS؟",
+              "options": [
+                "البرمجة الخلفية",
+                "تنسيق وتصميم الصفحات",
+                "إدارة قواعد البيانات",
+                "الأمن السيبراني"
+              ],
+              "correctAnswer": 1
+            }
+          ]
+        },
+        {
+          "id": "lesson_2",
+          "title": "أساسيات JavaScript",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "description": "تعلم JavaScript من البداية",
+          "questions": [
+            {
+              "question": "كيف نعلن عن متغير في JavaScript؟",
+              "options": [
+                "variable x = 5",
+                "let x = 5",
+                "x := 5",
+                "dim x = 5"
+              ],
+              "correctAnswer": 1
+            },
+            {
+              "question": "ما هو الناتج من: 2 + '2'؟",
+              "options": [
+                "4",
+                "22",
+                "Error",
+                "undefined"
+              ],
+              "correctAnswer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat_2",
+      "name": "تصميم المواقع",
+      "icon": "🎨",
+      "lessons": [
+        {
+          "id": "lesson_3",
+          "title": "تصميم واجهات المستخدم",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "description": "تعلم مبادئ UI/UX",
+          "questions": [
+            {
+              "question": "ما معنى UX؟",
+              "options": [
+                "User Experience",
+                "User Exit",
+                "Universal X",
+                "Unique Experience"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "question": "ما هي الألوان الأساسية في نموذج RGB؟",
+              "options": [
+                "أحمر، أخضر، أزرق",
+                "أحمر، أصفر، أزرق",
+                "برتقالي، أخضر، بنفسجي",
+                "أسود، أبيض، رمادي"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "question": "ما هو Figma؟",
+              "options": [
+                "لغة برمجة",
+                "أداة تصميم واجهات",
+                "قاعدة بيانات",
+                "محرر نصوص"
+              ],
+              "correctAnswer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat_3",
+      "name": "تطوير التطبيقات",
+      "icon": "📱",
+      "lessons": [
+        {
+          "id": "lesson_4",
+          "title": "React Native للمبتدئين",
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "description": "بناء تطبيقات الموبايل بـ React Native",
+          "questions": [
+            {
+              "question": "ما هو React Native؟",
+              "options": [
+                "إطار عمل لبناء تطبيقات الموبايل",
+                "لغة برمجة جديدة",
+                "قاعدة بيانات",
+                "نظام تشغيل"
+              ],
+              "correctAnswer": 0
+            },
+            {
+              "question": "ما اللغة المستخدمة في React Native؟",
+              "options": [
+                "Python",
+                "Java",
+                "JavaScript",
+                "Swift"
+              ],
+              "correctAnswer": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "adminPassword": "worm2024",
+    "adsCode": "",
+    "dataJsonUrl": ""
+  }
+}
